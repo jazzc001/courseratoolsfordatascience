@@ -1,2 +1,2 @@
 # courseratoolsfordatascience
-Week 2 on Taools for Data Science
+Week 2 on Tools for Data Science
